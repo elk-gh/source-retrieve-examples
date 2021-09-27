@@ -1,0 +1,3 @@
+sfdx force:source:retrieve -m WebLink:Deal__c/Report_SELA_Valid_Products_by_Primary_SELA_Model
+sfdx force:source:retrieve -m CustomField:ValidProduct__c.DollarAllocationCurrent__c
+sfdx force:source:retrieve -m Report:SELACDA/Allocation_Last_Run_Warning
